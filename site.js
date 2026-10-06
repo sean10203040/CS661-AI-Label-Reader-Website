@@ -1,5 +1,5 @@
 // Add the presentation's YouTube URL here when the recording is uploaded.
-const PRESENTATION_URL = "";
+const PRESENTATION_URL = "https://www.youtube.com/watch?v=M42mFy-Axlc";
 if (PRESENTATION_URL) {
   try {
     const url = new URL(PRESENTATION_URL);
